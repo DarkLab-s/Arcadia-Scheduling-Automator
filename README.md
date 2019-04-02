@@ -1,8 +1,10 @@
 # Arcadia-Scheduling-Automator
 AutoHotKey script for various automate scheduling processes for Arcadia Bev
 
-ARCADIA SCHEDULE AUTOMATOR 
+ARCADIA SCHEDULE AUTOMATOR
+
 AUTHOR:: NEAL HOLLAWAY
+
 VER:: 1.2
 
 
